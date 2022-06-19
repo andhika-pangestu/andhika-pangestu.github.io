@@ -1065,6 +1065,11 @@ h6,
     background:
         url(../img/bg-mid.png)
 }
+.bg-sv
+{
+    background:
+        url(../img/bg-sv.png)
+}
 .bg-300 {
     background-color: #ffffff !important;
     border-width: 6px !important;
