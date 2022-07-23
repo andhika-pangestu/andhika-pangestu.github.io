@@ -3,6 +3,10 @@
     --primary: #2124B1;
     --secondary: #4777F5;
     --light: #F7FAFF;
+<<<<<<< HEAD
+=======
+    --grey: #606778;
+>>>>>>> e6cff60 (some init msg)
     --dark: #1D1D27;
     --yellow: #FFE779;
     --yellow2:#FFC107;
@@ -942,7 +946,11 @@ h6,
     position: relative;
     margin-left: 40px;
     padding: 25px 0;
+<<<<<<< HEAD
     color: var(--light) !important;
+=======
+    color: var(--grey) !important;
+>>>>>>> e6cff60 (some init msg)
     outline: none;
     transition: .5s;
 }
@@ -958,7 +966,11 @@ h6,
 }
 
 .navbar-light .navbar-brand h1 {
+<<<<<<< HEAD
     color: #FFFFFF;
+=======
+    color: #b3ff00bc;
+>>>>>>> e6cff60 (some init msg)
 }
 
 .navbar-light .navbar-brand img {
@@ -1079,6 +1091,15 @@ h6,
     border-width: 6px !important;
   }
 
+<<<<<<< HEAD
+=======
+.bg-230 {
+    background-color: #FFE779 !important;
+    border-width: 6px !important;
+}
+
+
+>>>>>>> e6cff60 (some init msg)
 .border {
     border: 5px solid #000000 !important;
   }
@@ -1148,7 +1169,11 @@ h6,
 }
 
 .service-item:hover {
+<<<<<<< HEAD
     background: var(--primary);
+=======
+    background: var(--yellow);
+>>>>>>> e6cff60 (some init msg)
 }
 
 .service-item .service-icon {
@@ -1164,7 +1189,11 @@ h6,
 }
 
 .service-item:hover .service-icon {
+<<<<<<< HEAD
     color: var(--primary);
+=======
+    color: var(--yellow);
+>>>>>>> e6cff60 (some init msg)
     background: url(../img/icon-shape-white.png);
 }
 
@@ -1181,13 +1210,21 @@ h6,
 .service-item a.btn {
     position: relative;
     display: flex;
+<<<<<<< HEAD
     color: var(--primary);
+=======
+    color: var(--yellow);
+>>>>>>> e6cff60 (some init msg)
     transition: .5s;
     z-index: 1;
 }
 
 .service-item:hover a.btn {
+<<<<<<< HEAD
     color: var(--primary);
+=======
+    color: var(--yellow);
+>>>>>>> e6cff60 (some init msg)
 }
 
 .service-item a.btn::before {
@@ -1240,7 +1277,11 @@ h6,
 }
 
 .testimonial-carousel .owl-item.center .testimonial-item h6 {
+<<<<<<< HEAD
     color: var(--dark) !important;
+=======
+    color: var(--light) !important;
+>>>>>>> e6cff60 (some init msg)
 }
 
 
